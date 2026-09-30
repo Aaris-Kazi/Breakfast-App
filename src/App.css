@@ -6,7 +6,22 @@
   filter: drop-shadow(0 0 2em #61dafb);
 }
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  --primary: "#285943",
+  --primaryDark: "#1E4534",
+  --primaryLight: "#46745E",
+  --sage: "#9CAF9B",
+  --sageLight: "#EAF0E7",
+  --background: "#FAF8F3",
+  --white: "#FFFFFF",
+  --surface: "#F7F8F5",
+  --text: "#18211C",
+  --secondary: "#5F6862",
+  --muted: "#89918B",
+  --font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  --border: "#E2E6E1",
+  --success: "#2F6B4F",
+  --warning: "#A66A18",
+  --error: "#B94A48",
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;

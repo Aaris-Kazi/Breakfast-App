@@ -12,3 +12,12 @@ This template should help get you started developing with Tauri and React in Vit
 
 ## For Android development, run:
        npm run tauri android dev
+
+## Building
+
+    npm run build
+    npx tauri dev
+
+## Android
+    npx tauri android init
+    npx tauri android dev
